@@ -1,0 +1,59 @@
+{
+  "@@locale": "en",
+  "appName": "Wirdi",
+  "@appName": {
+    "description": "Main application name"
+  },
+  "appSlogan": "Quran Companion for Memorizers & Learning Circles",
+  "@appSlogan": {
+    "description": "App slogan"
+  },
+  "homeTitle": "Home",
+  "@homeTitle": {
+    "description": "Home screen title"
+  },
+  "welcomeMessage": "Welcome to Wirdi",
+  "@welcomeMessage": {
+    "description": "Welcome greeting"
+  },
+  "dailyWird": "Daily Wird",
+  "@dailyWird": {
+    "description": "Daily wird section"
+  },
+  "memorization": "New Memorization",
+  "@memorization": {
+    "description": "New memorization section"
+  },
+  "revision": "Revision & Review",
+  "@revision": {
+    "description": "Revision section"
+  },
+  "mushaf": "Holy Quran",
+  "@mushaf": {
+    "description": "Mushaf section"
+  },
+  "adhkar": "Adhkar",
+  "@adhkar": {
+    "description": "Adhkar section"
+  },
+  "statistics": "Statistics & Progress",
+  "@statistics": {
+    "description": "Statistics section"
+  },
+  "settings": "Settings",
+  "@settings": {
+    "description": "Settings section"
+  },
+  "toggleTheme": "Toggle Theme",
+  "@toggleTheme": {
+    "description": "Toggle theme button"
+  },
+  "toggleLanguage": "العربية",
+  "@toggleLanguage": {
+    "description": "Toggle language button"
+  },
+  "startJourney": "Begin Your Wird",
+  "@startJourney": {
+    "description": "Start journey button"
+  }
+}

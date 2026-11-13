@@ -1,0 +1,59 @@
+{
+  "@@locale": "ar",
+  "appName": "وِردي",
+  "@appName": {
+    "description": "اسم التطبيق الرئيسي"
+  },
+  "appSlogan": "رفيق الحفاظ وطلاب الحلقات",
+  "@appSlogan": {
+    "description": "شعار التطبيق"
+  },
+  "homeTitle": "الصفحة الرئيسية",
+  "@homeTitle": {
+    "description": "عنوان الشاشة الرئيسية"
+  },
+  "welcomeMessage": "مرحبًا بك في وِردي",
+  "@welcomeMessage": {
+    "description": "رسالة الترحيب"
+  },
+  "dailyWird": "الورد اليومي",
+  "@dailyWird": {
+    "description": "قسم الورد اليومي"
+  },
+  "memorization": "الحفظ الجديد",
+  "@memorization": {
+    "description": "قسم الحفظ الجديد"
+  },
+  "revision": "المراجعة والتثبيت",
+  "@revision": {
+    "description": "قسم المراجعة والتثبيت"
+  },
+  "mushaf": "المصحف الشريف",
+  "@mushaf": {
+    "description": "قسم المصحف"
+  },
+  "adhkar": "الأذكار",
+  "@adhkar": {
+    "description": "قسم الأذكار"
+  },
+  "statistics": "الإحصائيات والتقدم",
+  "@statistics": {
+    "description": "قسم الإحصائيات"
+  },
+  "settings": "الإعدادات",
+  "@settings": {
+    "description": "قسم الإعدادات"
+  },
+  "toggleTheme": "تبديل المظهر",
+  "@toggleTheme": {
+    "description": "زر تبديل المظهر"
+  },
+  "toggleLanguage": "English",
+  "@toggleLanguage": {
+    "description": "زر تبديل اللغة"
+  },
+  "startJourney": "ابدأ وردك",
+  "@startJourney": {
+    "description": "زر البداية"
+  }
+}
